@@ -1,2 +1,2 @@
-# digitalFlake_assessment
- 
+# digital-flake-hackathon
+Hackathon Project
